@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import org.firstinspires.ftc.teamcode.TeleOp.CustomLib.JoyStick;
 import org.firstinspires.ftc.teamcode.TeleOp.SubSystems.Drive;
 
-import org.firstinspires.ftc.teamcode.TeleOp.Motors
+import org.firstinspires.ftc.teamcode.TeleOp.Motors;
 
 @TeleOp(name = "TeleOp2025V1")
 public class TeleOp2025V1 extends LinearOpMode {
